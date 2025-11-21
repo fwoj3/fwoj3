@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm [Your Name]  
 
-<!--
-**fwoj3/fwoj3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Developer | Mobile & Backend Engineer  
 
-Here are some ideas to get you started:
+Skupiam się na tworzeniu nowoczesnych i skalowalnych aplikacji — od mobilnych interfejsów po backend i chmurę. Uwielbiam łączyć dobre praktyki, czysty kod i solidną architekturę.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### **Mobile & Frontend**
+- 🐦 **Flutter / Dart** – cross-platform apps, UI/UX, state management (Riverpod/Bloc)
+
+### **Backend**
+- 🐍 **Python** – FastAPI, automatyzacja, integracje, data workflows  
+- ⚙️ **C# / .NET** – API, mikroserwisy, aplikacje biznesowe
+
+### **Cloud & DevOps**
+- ☁️ **AWS** – Lambda, API Gateway, RDS, S3, CloudWatch  
+- 🗄️ SQL / NoSQL  
+- 🐳 Docker  
+- 🛠 GitHub Actions / CI/CD  
