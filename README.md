@@ -1,13 +1,3 @@
-# 👋 Hey, I'm [Your Name]  
-
-### 🚀 Software Developer | Mobile & Backend Engineer  
-
-Skupiam się na tworzeniu nowoczesnych i skalowalnych aplikacji — od mobilnych interfejsów po backend i chmurę. Uwielbiam łączyć dobre praktyki, czysty kod i solidną architekturę.
-
----
-
-## 💻 Tech Stack
-
 ### **Mobile & Frontend**
 - 🐦 **Flutter / Dart** – cross-platform apps, UI/UX, state management (Riverpod/Bloc)
 
